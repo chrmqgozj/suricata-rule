@@ -1,0 +1,16 @@
+06/18/2025-14:16:30.204053  [**] [1:10002:1] HTTP: netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.199.129:45726 -> 44.234.232.238:80
+06/18/2025-14:16:47.093435  [**] [1:10003:1] HTTP: qt.io access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.199.129:57340 -> 52.18.144.254:80
+06/18/2025-14:16:54.970161  [**] [1:10004:1] HTTP: example.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.199.129:49420 -> 23.192.228.84:80
+06/18/2025-14:17:33.481419  [**] [1:10005:1] HTTP: httpbin.org access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.199.129:44348 -> 34.198.95.5:80
+06/18/2025-14:17:43.054615  [**] [1:10006:1] HTTPS: google.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.199.129:37274 -> 142.250.206.206:443
+06/18/2025-14:17:43.576258  [**] [1:10006:1] HTTPS: google.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.199.129:40388 -> 142.250.206.228:443
+06/18/2025-14:17:50.068001  [**] [1:10007:1] HTTPS: github.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.199.129:55002 -> 20.200.245.247:443
+06/18/2025-14:18:10.362434  [**] [1:10008:1] HTTPS: stackoverflow.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.199.129:56458 -> 172.64.155.249:443
+06/18/2025-14:18:23.249596  [**] [1:10009:1] HTTPS: microsoft.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.199.129:34826 -> 13.107.246.74:443
+06/18/2025-14:18:23.540199  [**] [1:10009:1] HTTPS: microsoft.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.199.129:51978 -> 23.49.226.40:443
+06/18/2025-14:18:40.355933  [**] [1:10010:1] HTTPS: amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.199.129:45070 -> 52.94.236.248:443
+06/18/2025-14:18:41.103149  [**] [1:10010:1] HTTPS: amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.199.129:34722 -> 13.225.110.99:443
+06/18/2025-14:18:50.667300  [**] [1:10001:1] HTTP: gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.199.129:56344 -> 110.11.116.252:80
+06/18/2025-14:18:51.008230  [**] [1:10001:1] HTTP: gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.199.129:56344 -> 110.11.116.252:80
+06/18/2025-14:18:51.319909  [**] [1:10001:1] HTTP: gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.199.129:56344 -> 110.11.116.252:80
+06/18/2025-14:18:52.118131  [**] [1:10001:1] HTTP: gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.199.129:56344 -> 110.11.116.252:80
