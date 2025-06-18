@@ -4,7 +4,6 @@ alert tcp any any -> any 80 (msg:"HTTP: qt.io access"; content:"GET /"; content:
 alert tcp any any -> any 80 (msg:"HTTP: example.com access"; content:"GET /"; content:"Host: "; content:"example.com"; sid:10004; rev:1;)
 alert tcp any any -> any 80 (msg:"HTTP: httpbin.org access"; content:"GET /"; content:"Host: "; content:"httpbin.org"; sid:10005; rev:1;)
 
-# HTTPS (TLS/Encrypted) Detection Rules - 5 sites
 alert tcp any any -> any 443 (msg:"HTTPS: google.com TLS access"; tls.sni; content:"google.com"; nocase; sid:10006; rev:1;)
 alert tcp any any -> any 443 (msg:"HTTPS: github.com TLS access"; tls.sni; content:"github.com"; nocase; sid:10007; rev:1;)
 alert tcp any any -> any 443 (msg:"HTTPS: stackoverflow.com TLS access"; tls.sni; content:"stackoverflow.com"; nocase; sid:10008; rev:1;)
